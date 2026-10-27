@@ -32,7 +32,7 @@ An interactive Power BI dashboard analyzing sales performance, sales channels, c
 - **Top Products and Top Customers:** best-performing products and highest-value customers
 - **Slicers:** Manager, Employee, Product Category, Year, Quarter, Month
 - **Reset button:** a home icon linked to a bookmark that clears all filters and returns the dashboard to its default view
-- **Custom icons:** visual icons on each chart for a clean, user-friendly design
+- **Animated icons:** animated icons next to each visual for a more engaging user experience
 
 ### Interactive Filtering
 
