@@ -31,6 +31,8 @@ An interactive Power BI dashboard analyzing sales performance, sales channels, c
 - **Sales by Customer Type and Gender:** customer segmentation
 - **Top Products and Top Customers:** best-performing products and highest-value customers
 - **Slicers:** Manager, Employee, Product Category, Year, Quarter, Month
+- **Reset button:** a home icon linked to a bookmark that clears all filters and returns the dashboard to its default view
+- **Custom icons:** visual icons on each chart for a clean, user-friendly design
 
 ### Interactive Filtering
 
@@ -46,6 +48,7 @@ Every visual updates when filters are applied. Example filtered by year (2022):
 - **Power Query:** data cleaning, transformations and custom columns
 - **DAX:** calculations and KPI measures
 - **Microsoft Excel:** source dataset
+- **Bookmarks & Buttons:** reset navigation and interactivity
 
 ---
 
